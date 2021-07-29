@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ## <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/> Welcome to my Github! <img src="https://cdn.discordapp.com/emojis/630965840208199680.gif?v=1" height=32/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyZhang666)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyZhang666)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyZhang666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
